@@ -1,0 +1,16 @@
+{
+    "name": "manuelhe/tweetmysongs-cli",
+    "description": "TweetMySongs command line application",
+    "type": "project",
+    "require": {
+        "mnapoli/silly": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuel Herrera",
+            "email": "manuel.he@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
